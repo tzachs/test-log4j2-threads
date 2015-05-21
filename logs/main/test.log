@@ -1,0 +1,6 @@
+22:59:55,683 INFO [main] test-log4j2-threads - Started
+22:59:55,700 DEBUG [main] test-log4j2-threads - GUI log
+22:59:56,700 DEBUG [main] test-log4j2-threads - GUI log
+22:59:57,701 DEBUG [main] test-log4j2-threads - GUI log
+22:59:58,702 DEBUG [main] test-log4j2-threads - GUI log
+22:59:59,703 INFO [main] test-log4j2-threads - Finished
